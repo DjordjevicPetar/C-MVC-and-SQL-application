@@ -1,0 +1,10 @@
+D:\E44\PetarDjordjevic\B5-6\B5-6\bin\Debug\B5-6.exe.config
+D:\E44\PetarDjordjevic\B5-6\B5-6\bin\Debug\B5-6.exe
+D:\E44\PetarDjordjevic\B5-6\B5-6\bin\Debug\B5-6.pdb
+D:\E44\PetarDjordjevic\B5-6\B5-6\obj\Debug\B5-6.csprojResolveAssemblyReference.cache
+D:\E44\PetarDjordjevic\B5-6\B5-6\obj\Debug\B5_6.Form1.resources
+D:\E44\PetarDjordjevic\B5-6\B5-6\obj\Debug\B5_6.Gradovi.resources
+D:\E44\PetarDjordjevic\B5-6\B5-6\obj\Debug\B5_6.Properties.Resources.resources
+D:\E44\PetarDjordjevic\B5-6\B5-6\obj\Debug\B5-6.csproj.GenerateResource.Cache
+D:\E44\PetarDjordjevic\B5-6\B5-6\obj\Debug\B5-6.exe
+D:\E44\PetarDjordjevic\B5-6\B5-6\obj\Debug\B5-6.pdb
