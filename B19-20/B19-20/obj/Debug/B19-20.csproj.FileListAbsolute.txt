@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Desktop\B19-20\B19-20\bin\Debug\B19-20.exe.config
+C:\Users\Ucenik\Desktop\B19-20\B19-20\bin\Debug\B19-20.exe
+C:\Users\Ucenik\Desktop\B19-20\B19-20\bin\Debug\B19-20.pdb
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19-20.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19_20.Form1.resources
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19_20.Lek_Bolest.resources
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19_20.PoProizvodjacu.resources
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19_20.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19-20.csproj.GenerateResource.Cache
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19-20.exe
+C:\Users\Ucenik\Desktop\B19-20\B19-20\obj\Debug\B19-20.pdb

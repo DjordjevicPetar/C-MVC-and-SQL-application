@@ -1,0 +1,14 @@
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\bin\Debug\B27-28.exe.config
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\bin\Debug\B27-28.exe
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\bin\Debug\B27-28.pdb
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27-28.csprojAssemblyReference.cache
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27_28.Form1.resources
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27_28.Properties.Resources.resources
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27-28.csproj.GenerateResource.cache
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27-28.csproj.CoreCompileInputs.cache
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27-28.exe
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27-28.pdb
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27_28.BrojDece.resources
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27_28.UzrastDece.resources
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27_28.Roditelji.resources
+F:\Petar_Djordjevic\Programi C#\B27-28\B27-28\obj\Debug\B27_28.Deca.resources
