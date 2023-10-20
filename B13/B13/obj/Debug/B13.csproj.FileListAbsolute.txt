@@ -1,0 +1,22 @@
+D:\E44\Petar Djordjevic\B13\B13\bin\Debug\B13.exe.config
+D:\E44\Petar Djordjevic\B13\B13\bin\Debug\B13.exe
+D:\E44\Petar Djordjevic\B13\B13\bin\Debug\B13.pdb
+D:\E44\Petar Djordjevic\B13\B13\obj\Debug\B13.csprojResolveAssemblyReference.cache
+D:\E44\Petar Djordjevic\B13\B13\obj\Debug\B13.Form1.resources
+D:\E44\Petar Djordjevic\B13\B13\obj\Debug\B13.Properties.Resources.resources
+D:\E44\Petar Djordjevic\B13\B13\obj\Debug\B13.Unos_knjiga.resources
+D:\E44\Petar Djordjevic\B13\B13\obj\Debug\B13.csproj.GenerateResource.Cache
+D:\E44\Petar Djordjevic\B13\B13\obj\Debug\B13.exe
+D:\E44\Petar Djordjevic\B13\B13\obj\Debug\B13.pdb
+C:\Users\Racunar\Desktop\B13\B13\bin\Debug\B13.exe.config
+C:\Users\Racunar\Desktop\B13\B13\bin\Debug\B13.exe
+C:\Users\Racunar\Desktop\B13\B13\bin\Debug\B13.pdb
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.csprojAssemblyReference.cache
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.Form1.resources
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.Properties.Resources.resources
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.Unos_knjiga.resources
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.csproj.GenerateResource.cache
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.csproj.CoreCompileInputs.cache
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.exe
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.pdb
+C:\Users\Racunar\Desktop\B13\B13\obj\Debug\B13.Po_kategorijama.resources

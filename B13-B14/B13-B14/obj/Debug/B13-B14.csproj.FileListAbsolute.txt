@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\bin\Debug\B13-B14.exe.config
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\bin\Debug\B13-B14.exe
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\bin\Debug\B13-B14.pdb
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13-B14.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13_B14.Autori.resources
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13_B14.Form1.resources
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13_B14.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13-B14.csproj.GenerateResource.Cache
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13-B14.exe
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13-B14.pdb
+C:\Users\Ucenik\Desktop\B13-B14\B13-B14\obj\Debug\B13_B14.PoAutorima.resources
