@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\bin\Debug\B9-B10.exe.config
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\bin\Debug\B9-B10.exe
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\bin\Debug\B9-B10.pdb
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9-B10.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9_B10.Form1.resources
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9_B10.Periodi.resources
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9_B10.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9-B10.csproj.GenerateResource.Cache
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9-B10.exe
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9-B10.pdb
+C:\Users\Ucenik\Desktop\B9-B10\B9-B10\obj\Debug\B9_B10.Po_tipu_antikviteta.resources

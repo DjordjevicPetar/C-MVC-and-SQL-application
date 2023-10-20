@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\bin\Debug\B7-B8.exe.config
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\bin\Debug\B7-B8.exe
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\bin\Debug\B7-B8.pdb
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7-B8.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7_B8.Form1.resources
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7_B8.Klijenti.resources
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7_B8.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7-B8.csproj.GenerateResource.Cache
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7-B8.exe
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7-B8.pdb
+C:\Users\Ucenik\Desktop\B7-B8\B7-B8\obj\Debug\B7_B8.Po_rezervacijama.resources
