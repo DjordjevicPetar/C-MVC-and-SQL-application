@@ -1,0 +1,12 @@
+F:\Petar_Djordjevic\Programi C#\B5\B5\bin\Debug\B5.exe.config
+F:\Petar_Djordjevic\Programi C#\B5\B5\bin\Debug\B5.exe
+F:\Petar_Djordjevic\Programi C#\B5\B5\bin\Debug\B5.pdb
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.csprojAssemblyReference.cache
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.Form1.resources
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.btnUpis.resources
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.Properties.Resources.resources
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.csproj.GenerateResource.cache
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.csproj.CoreCompileInputs.cache
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.exe
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.pdb
+F:\Petar_Djordjevic\Programi C#\B5\B5\obj\Debug\B5.Spisak.resources

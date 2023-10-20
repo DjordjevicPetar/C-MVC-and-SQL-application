@@ -1,0 +1,14 @@
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\bin\Debug\B3-B4.exe.config
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\bin\Debug\B3-B4.exe
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\bin\Debug\B3-B4.pdb
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3-B4.csprojAssemblyReference.cache
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3_B4.Form1.resources
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3_B4.Properties.Resources.resources
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3-B4.csproj.GenerateResource.cache
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3-B4.csproj.CoreCompileInputs.cache
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3-B4.exe
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3-B4.pdb
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3_B4.Glumci.resources
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3_B4.Producenti.resources
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3_B4.Zanrovi_i_glumci.resources
+F:\Petar_Djordjevic\Matura\Programiranje\B3-B4\B3-B4\obj\Debug\B3_B4.Vrste_uloge_i_producenti.resources
