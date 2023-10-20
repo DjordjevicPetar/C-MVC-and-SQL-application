@@ -1,0 +1,12 @@
+F:\Petar_Djordjevic\Programi C#\B3\B3\bin\Debug\B3.exe.config
+F:\Petar_Djordjevic\Programi C#\B3\B3\bin\Debug\B3.exe
+F:\Petar_Djordjevic\Programi C#\B3\B3\bin\Debug\B3.pdb
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.csprojAssemblyReference.cache
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.Form1.resources
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.Properties.Resources.resources
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.csproj.GenerateResource.cache
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.csproj.CoreCompileInputs.cache
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.exe
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.pdb
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.Glumci.resources
+F:\Petar_Djordjevic\Programi C#\B3\B3\obj\Debug\B3.ZanroviGlumci.resources
