@@ -1,0 +1,11 @@
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\bin\Debug\B35-B36.exe.config
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\bin\Debug\B35-B36.exe
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\bin\Debug\B35-B36.pdb
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35-B36.csprojResolveAssemblyReference.cache
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35_B36.Form1.resources
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35_B36.Properties.Resources.resources
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35_B36.Ulov.resources
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35-B36.csproj.GenerateResource.Cache
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35-B36.exe
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35-B36.pdb
+C:\Users\Ucenik\Desktop\B35-B36\B35-B36\obj\Debug\B35_B36.Pretraga_Opisa.resources
